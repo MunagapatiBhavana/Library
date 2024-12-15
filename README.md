@@ -29,4 +29,4 @@
       Limited to basic book information
       No advanced filtering or sorting
 
-                                                                                              Happy Reading! 📖✨      
+  Happy Reading! 📖✨      
